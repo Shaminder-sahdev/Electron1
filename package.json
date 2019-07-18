@@ -1,0 +1,19 @@
+{
+  "name": "myelectron",
+  "version": "0.0.1",
+  "description": "this is first electron",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+    "start": "electron ."
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shaminder-sahdev"
+  },
+  "author": "Shaminder 737679",
+  "license": "MIT"
+}
