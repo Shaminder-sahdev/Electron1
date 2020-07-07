@@ -4,7 +4,7 @@
   "description": "this is first electron",
   "main": "main.js",
   "dependencies": {
-    "electron": "^5.0.7"
+    "electron": "^9.1.0"
     },
     "devDependencies": {},
     "scripts": {
